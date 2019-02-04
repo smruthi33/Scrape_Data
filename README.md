@@ -80,7 +80,7 @@ type: tutorial|howto    # REQUIRED
 
 ---
 
-Add your intro here.
+Web scraping is the use of a program or algorithm to extract and process large amounts of data from the web. This allows you to find data from the web, and there is no direct way to download it, web scraping using Python is a skill you can use to extract the data into a useful form that can be imported. In this tutorial, you will learn about Data extraction from the web using Watson Studio and further sent to Watson Natural Language Understanding for deriving important entities and keywords.
 
 ## Learning objectives
 
