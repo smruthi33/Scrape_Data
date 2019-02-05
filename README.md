@@ -171,7 +171,7 @@ Completing this tutorial should take about 30 minutes.
   return summary_items
   ```
 * Now, just call the function by passing any search term.
-* If you wish to extract different information from a different website, enter a different url and in you browser (eg: Google Chrome) open, options> More Tools> Developer Tools. Navigate through the HTML and find the appropriate HTML tags you wish to extract and update it in the code using BeautifulSoup.
+* If you wish to extract different information from a different website, enter a different url and in you browser (eg: Google Chrome) open, `options> More Tools> Developer Tools`. Navigate through the HTML and find the appropriate HTML tags you wish to extract and update it in the code using BeautifulSoup.
 
 #### 5. Analyze Results in Watson NLU
 
